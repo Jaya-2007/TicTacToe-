@@ -1,9 +1,7 @@
 # Tic Tac Toe (Java – Console)
 
-A simple **console-based Tic Tac Toe game written in Java.
+A simple console-based Tic Tac Toe game written in Java.
 This project is designed for beginners to understand basic Java concepts like arrays, loops, conditions, and methods.
-
----
 
 ##  Features
 
