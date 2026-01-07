@@ -5,7 +5,7 @@ This project is designed for beginners to understand basic Java concepts like ar
 
 ---
 
-## 📌 Features
+##  Features
 
 * Two-player game (X vs O)
 * 3×3 game board
